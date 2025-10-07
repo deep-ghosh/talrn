@@ -32,7 +32,7 @@ export default function Hero() {
           </div>
           <p className="text-sm text-[#6B7280]">
             Looking for remote iOS dev jobs{" "}
-            <a href="#apply" className="text-[#5B6EF5] underline hover:text-[#4A5DE4]">
+            <a href="/join" className="text-[#5B6EF5] underline hover:text-[#4A5DE4]">
               Apply here
             </a>
           </p>
